@@ -125,6 +125,8 @@ footer {
     .social-icon {
         justify-self: flex-end;
         margin-top: 50px;
+        margin-right: 50px;
+        text-align: right;
     }
 
 
